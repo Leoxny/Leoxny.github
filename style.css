@@ -17,7 +17,7 @@ html{
 
 body{
     background-color: #DCDCDC;
-    margin-top: 5rem;
+    margin-top: 5rem;   
 }
 
 .imagemanime{
@@ -119,10 +119,8 @@ body{
 
 .bolinha{
     display: flex;
-    justify-content: space-between;
     gap: 50px;
     margin-top: 20px;
-    margin-left: 14%;
 }
 
 
